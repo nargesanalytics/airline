@@ -6,7 +6,7 @@ and overall experience.
 ## Table of Contents
 * [Introduction](#Introduction)
 * [Dashboard Requirements](#Dashboard-Requirements)
-* [Recommended Analysis]
+* [Recommended Analysis](#Recommended-Analysis)
 * [Installation / Usage](#Installation--Usage)
 * [DAX Formulas Used in Measures](#DAX-Formulas-Used-in-Measures)
 
